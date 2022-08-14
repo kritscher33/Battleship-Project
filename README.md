@@ -5,8 +5,7 @@ https://www.youtube.com/watch?v=LbALFZoRrw8
 
 Independently completed in summer 2022, following directions from a similar UCLA class project. 
 These directions are published as the specs file. 
-That should be read before reading this file, where I discuss my strategies in slight detail. 
-More detail is available is comment blocks within the corresponding code files. 
+More detail regarding my strategies is available as comment blocks within the code files. 
 
 
 
