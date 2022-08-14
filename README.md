@@ -5,4 +5,4 @@ https://www.youtube.com/watch?v=LbALFZoRrw8
 
 Independently completed in summer 2022, following directions from a similar UCLA class project. 
 
-More details are available as comments within files. 
+More details are available as comments within files. bean
