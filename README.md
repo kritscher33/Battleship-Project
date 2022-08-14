@@ -8,7 +8,7 @@ These directions are published in the specs.pdf file.
 My strategies are available as comment blocks within the code files, 
 and published in summary in the strategies.txt file. 
 
-
+ 
 
 
 
