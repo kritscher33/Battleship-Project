@@ -4,8 +4,10 @@ the premier of which an attempt to replicate/improve the popular battleship algo
 https://www.youtube.com/watch?v=LbALFZoRrw8
 
 Independently completed in summer 2022, following directions from a similar UCLA class project. 
-These directions are published as the specs file. 
-More detail regarding my strategies is available as comment blocks within the code files. 
+These directions are published in the specs.pdf file. 
+My strategies are available as comment blocks within the code files, 
+and published in summary in the strategies.txt file. 
+
 
 
 
